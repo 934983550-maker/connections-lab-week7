@@ -1,0 +1,14 @@
+{
+  "name": "connections-lab-week7",
+  "version": "1.0.0",
+  "description": "Aircraft spotting log using Express and Lowdb",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "lowdb": "^7.0.1"
+  }
+}

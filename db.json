@@ -1,0 +1,18 @@
+{
+  "sightings": [
+    {
+      "id": "1792563222557",
+      "aircraft": "Airbus A250-900",
+      "airport": "SFO",
+      "date": "2026-10-21",
+      "notes": "United Airline"
+    },
+    {
+      "id": "1792563184994",
+      "aircraft": "Airbus A350-1000",
+      "airport": "JFK",
+      "date": "2026-10-21",
+      "notes": ""
+    }
+  ]
+}
